@@ -37,7 +37,7 @@
     height="42px"
   />
 </a>
-<a href="https://www.java.com" target="_blank"
+<a href="https://docs.oracle.com/en/java/" target="_blank"
   ><img
     align="left"
     alt="Java"
@@ -205,4 +205,3 @@
     height="42px"
   />
 </a>
-
