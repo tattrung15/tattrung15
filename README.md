@@ -213,3 +213,11 @@
     height="42px"
   />
 </a>
+<a href="https://angular.io/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/angular/angular.svg"
+    align="left"
+    alt="git"
+    height="42px"
+  />
+</a>
