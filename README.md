@@ -2,7 +2,7 @@
 
 ### Top languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tattrung15&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tattrung15&title_color=FD428E&text_color=ffffff&bg_color=20232a&langs_count=10&layout=compact&hide_border=true)
 
 ### 🔨 Languages and Tools:
 
