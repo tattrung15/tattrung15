@@ -95,7 +95,7 @@
     align="left"
     alt="nestjs.js"
     height="42px"
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg"
 /></a>
 <a href="https://devdocs.io/html/" target="_blank">
   <img
